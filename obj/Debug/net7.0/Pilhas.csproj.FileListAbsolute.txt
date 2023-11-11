@@ -1,0 +1,14 @@
+C:\dio\Pilhas\bin\Debug\net7.0\Pilhas.exe
+C:\dio\Pilhas\bin\Debug\net7.0\Pilhas.deps.json
+C:\dio\Pilhas\bin\Debug\net7.0\Pilhas.runtimeconfig.json
+C:\dio\Pilhas\bin\Debug\net7.0\Pilhas.dll
+C:\dio\Pilhas\bin\Debug\net7.0\Pilhas.pdb
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.AssemblyInfoInputs.cache
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.AssemblyInfo.cs
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.dll
+C:\dio\Pilhas\obj\Debug\net7.0\refint\Pilhas.dll
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.pdb
+C:\dio\Pilhas\obj\Debug\net7.0\Pilhas.genruntimeconfig.cache
+C:\dio\Pilhas\obj\Debug\net7.0\ref\Pilhas.dll
